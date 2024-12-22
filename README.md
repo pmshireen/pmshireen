@@ -10,13 +10,13 @@
 
 ## Github Stats
 <div align="center">
-<!--   <img src="https://github-readme-stats-sigma-seven-18.vercel.app/api?username=pmshireen&theme=tokyonight&card_width=160" alt="Stats" style="height: 200px">-->
-   <img src="https://github-readme-stats-sigma-seven-18.vercel.app/api/top-langs?username=pmshireen&theme=tokyonight&hide=lex,yacc,jupyter%20notebook&layout=compact&langs_count=5&card_width=160" alt="Languages" style="height: 200px;"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmshireen&theme=tokyonight" alt="GitHub Streak" style="height: 200px;">
+  <img src="https://github-readme-stats-ten-sepia-74.vercel.app/api?username=pmshireen&theme=tokyonight&card_width=160" alt="Stats" style="height: 200px">
+   <img src="https://github-readme-stats-ten-sepia-74.vercel.app/api/top-langs?username=pmshireen&theme=tokyonight&hide=lex,yacc,jupyter%20notebook&layout=compact&langs_count=5&card_width=160" alt="Languages" style="height: 200px;"> 
+   <img src="https://github-readme-streak-stats-phi-silk.vercel.app/?user=pmshireen&theme=tokyonight" alt="GitHub Streak" style="height: 200px;">
 </div>
 <!--
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmshireen&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats-phi-silk.vercel.app/?user=pmshireen&theme=tokyonight" alt="GitHub Streak">
 </p>
 -->
 
